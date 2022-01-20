@@ -1,7 +1,6 @@
-# Проект «{{projectTitle}}»
+# Проект «Cinema Addict»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Irina Kashyntseva](https://up.htmlacademy.ru/ecmascript/15/user/169447).
 
 ---
 

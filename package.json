@@ -2,7 +2,7 @@
   "name": "cinemaddict",
   "version": "15.0.0",
   "private": true,
-  "description": "Проект «{{projectTitle}}» от HTML Academy",
+  "description": "Проект «Cinema Addict» от HTML Academy",
   "scripts": {
     "eslint": "eslint src/",
     "test": "npm run eslint"
